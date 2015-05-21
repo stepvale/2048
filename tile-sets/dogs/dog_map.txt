@@ -1,0 +1,37 @@
+2- pug
+4- beagle
+8- english bulldog
+16- basset hound
+32- yellow lab 
+64- goldendoodle 
+128- weimerrainer 
+256- german shepherd
+512- bernese mt. dog 
+1024- st. bernard
+2048- great dane/mastiff mix (tirion)
+
+
+border collie
+
+doberman pinscher
+weimerainer
+pug
+great dane
+bernese mountain dog
+greater swiss mountain dog
+chihuahua
+golden retriever
+lab
+jack russell terrier
+foxhound
+beagle
+coonhound
+basset hound
+
+standard poodle
+miniture poodle
+
+
+english bulldog
+border collie
+australian cattle dog
